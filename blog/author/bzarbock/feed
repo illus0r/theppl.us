@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The PPL &#187; Brian Zarbock</title>
+	<atom:link href="http://theppl.us/blog/author/bzarbock/feed" rel="self" type="application/rss+xml" />
+	<link>http://theppl.us</link>
+	<description>Charlotte&#039;s home for bloggers &#38; online media during the #DNC2012</description>
+	<lastBuildDate>Fri, 15 Nov 2013 19:36:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.2</generator>
+		<item>
+		<title>Surrounding Charlotte cities prepare to help handle DNC protesters</title>
+		<link>http://theppl.us/blog/965</link>
+		<comments>http://theppl.us/blog/965#comments</comments>
+		<pubDate>Fri, 15 Jun 2012 17:56:01 +0000</pubDate>
+		<dc:creator>Brian Zarbock</dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">http://theppl.us/?p=965</guid>
+		<description><![CDATA[Crowd control isn&#8217;t something new to Charlotte area police, with their most recent experience being  the Occupy Charlotte protest group. The coming September Democratic National Convention however might prove too much to handle for Charlotte police especially given the aftermath of the NATO riots in Chicago. &#160; Lake Norman News, a Charlotte Observer affiliate is reporting that cities surrounding Mecklenburg are [...]]]></description>
+			<content:encoded><![CDATA[<p>Crowd control isn&#8217;t something new to Charlotte area police, with their most recent experience being  the Occupy Charlotte protest group. The coming September Democratic National Convention however might prove too much to handle for Charlotte police especially given the aftermath of the NATO riots in Chicago.</p>
+<div id="attachment_966" class="wp-caption aligncenter" style="width: 510px"><a href="http://theppl.us/surronding-charlotte-counties-prepare-to-help-charlotte-with-potential-dnc-protesters/chicago-police/" rel="attachment wp-att-966"><img class="size-full wp-image-966" title="Chicago Police " src="http://theppl.us/wp-content/uploads/2012/06/Chicago-Police.jpg" alt="" width="500" height="362" /></a><p class="wp-caption-text">Chicago Police during NATO riots in Chicago- Courtesy vonderauvisuals</p></div>
+<p>&nbsp;</p>
+<p>Lake Norman News, a Charlotte Observer affiliate is<a href="http://www.charlotteobserver.com/2012/06/08/3295457/area-police-plan-for-possible.html"> reporting</a> that cities surrounding Mecklenburg are training officers for any unrest during the DNC. These cities include,  Huntersville, Cornelius, Davidson and Mooresville. None of these cities have any real experience with crowd control in the past with the exception of Huntersville who dealt with a &#8220;religious group&#8221; protesting abortions at a local highschool. Despite the quiet history of these cities Huntersville Police Chief Philip Potter is considering bringing in a specialist to train officers how to handle protesters.</p>
+<p>Not all of the officers will be protecting the home front during the DNC. Davidson has two officers coming in to work the bike patrol during the DNC with the expectation that more will be added in the future. In the past protesters might plan on meeting in one place but using the instantaneous communication of social media they could change the locations in a heartbeat so nearby cities will have to be alert the entire time.  There is a possibility these cities will see no action at all but the DNC will still bring an influx to surrounding areas which could spell some nasty traffic tickets for any wary out of towner.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://theppl.us/blog/965/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

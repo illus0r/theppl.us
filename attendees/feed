@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Attendees</title>
+	<atom:link href="http://theppl.us/attendees/feed" rel="self" type="application/rss+xml" />
+	<link>http://theppl.us</link>
+	<description>Charlotte&#039;s home for bloggers &#38; online media during the #DNC2012</description>
+	<lastBuildDate>Fri, 10 Apr 2015 12:00:06 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.2</generator>
+	<item>
+		<title>By: What’s the Difference Between Mainstream and Activist Journalists? From the IMC at the WTO to the PPL at the DNC &#124; Mobilizing Ideas</title>
+		<link>http://theppl.us/attendees#comment-283</link>
+		<dc:creator>What’s the Difference Between Mainstream and Activist Journalists? From the IMC at the WTO to the PPL at the DNC &#124; Mobilizing Ideas</dc:creator>
+		<pubDate>Fri, 26 Oct 2012 11:07:21 +0000</pubDate>
+		<guid isPermaLink="false">http://theppl.us/?page_id=1276#comment-283</guid>
+		<description>[...] you go to The PPL web page of attendees, you can see the range of organizations and groups represented. There were a few other academics [...]</description>
+		<content:encoded><![CDATA[<p>[...] you go to The PPL web page of attendees, you can see the range of organizations and groups represented. There were a few other academics [...]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

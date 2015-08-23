@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The PPL &#187; Notes</title>
+	<atom:link href="http://theppl.us/notes/feed" rel="self" type="application/rss+xml" />
+	<link>http://theppl.us</link>
+	<description>Charlotte&#039;s home for bloggers &#38; online media during the #DNC2012</description>
+	<lastBuildDate>Fri, 15 Nov 2013 19:36:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.2</generator>
+		<item>
+		<title>Meeting 1: Notes</title>
+		<link>http://theppl.us/blog/114</link>
+		<comments>http://theppl.us/blog/114#comments</comments>
+		<pubDate>Wed, 27 Jul 2011 20:26:16 +0000</pubDate>
+		<dc:creator>Justin Ruckman</dc:creator>
+				<category><![CDATA[Notes]]></category>
+
+		<guid isPermaLink="false">http://theppl.us/?p=114</guid>
+		<description><![CDATA[Thanks to everyone for coming out to our first meeting! Feel free to download a copy of our overview document with extra: information about the components being planned draft org chart rough timeline Some similar successful projects we mentioned last night included the W2 Culture+Media House, which was set up in Vancouver during the Olympics. [...]]]></description>
+			<content:encoded><![CDATA[<p>Thanks to everyone for coming out to our first meeting!</p>
+<p>Feel free to <a href="http://theppl.us/files/The%20PPL%20handout%201.2.pdf" class="PDF">download a copy of our overview document</a> with extra:</p>
+<ul>
+<li><strong>information about the components being planned</strong></li>
+<li><strong>draft org chart</strong></li>
+<li><strong>rough timeline</strong></li>
+</ul>
+<p>Some similar successful projects we mentioned last night included the <a href="http://www.creativetechnology.org/">W2 Culture+Media House</a>, which was set up in Vancouver during the Olympics. We toured the facility and the surrounding neighborhood with one of their board members, Kris Krüg, who in addition to serving on the board for the immensely popular SXSW conference, is serving as advisor to The PPL as well. <a href="http://cltblog.com/5653">Check out that video</a> (jump to 1:45 if you&#8217;d like to skip to the good stuff). W2 lived on after the Olympics in a different home more suited to the local community than to an influx of visitors.</p>
+<p>We received some great feedback last night from a ton of awesome people. Most of the feedback came by way of questions, which are helping us learn how this initiative is perceived, and what we can do to distill its message and goals.</p>
+<p>Here are some of the questions we heard, and are contemplating as we push forward. Forgive us as we try to paraphrase:</p>
+<ul>
+<li><strong>Via Susan Patterson: </strong>There seem to be two primary goals: servicing visiting indie media and creatives, and servicing our local community. How exactly do these two goals work together and benefit each other?</li>
+<li><strong>Via Rick Thurmond, echoed by others:</strong> What do the various goals and components of the PPL look like when distilled down to a single, accessible sentence? What lies at the core of our motivation?</li>
+<li><strong>Via Tracy Russ:</strong> What does the PPL look like once the DNC leaves town? What lives on, and how?</li>
+<li><strong>Via Larry Shaheen:</strong> What does the scale of The PPL look like at different budget levels?</li>
+<li><strong>Via Jim Mitchem:</strong> What&#8217;s in it for everyone who wants to participate?</li>
+<li><strong>Via Matt Comer:</strong> How does this highlight not just the good in Charlotte, but the bad as well? It&#8217;s important to use opportunities like this to shine light into parts of our culture that needs to see change.</li>
+<li><strong>Via Jeff Elder:</strong> What specific opportunities are there for taking the pulse of the independent media community, and curating that dialogue for the public during the DNC?</li>
+</ul>
+<p>Thanks again for coming out! Hope to see everyone again soon, and with any luck, provide some answers to your questions. If we left anything out, let us know.</p>
+<p>We&#8217;ve heard from a lot of people interested in helping us solve these riddles (and others), and welcome anyone else&#8217;s help as well. Feel free to drop us all a collective line at <a href="mailto:info@theppl.us"/>info@theppl.us</a>.</p>
+<p>Don&#8217;t forget to follow us on <a href="http://twitter.com/ppldnc">Twitter</a> and <a href="http://www.facebook.com/ThePPL">Facebook</a>, if you haven&#8217;t already.</p>
+<p>And if you like, leave any comments or questions below!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://theppl.us/blog/114/feed</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

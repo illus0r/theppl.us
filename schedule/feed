@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Schedule</title>
+	<atom:link href="http://theppl.us/schedule/feed" rel="self" type="application/rss+xml" />
+	<link>http://theppl.us</link>
+	<description>Charlotte&#039;s home for bloggers &#38; online media during the #DNC2012</description>
+	<lastBuildDate>Fri, 10 Apr 2015 12:00:06 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.2</generator>
+	<item>
+		<title>By: Advocacy group heads to DNC with clear message: End mountaintop removal coal mining &#171; Appalachian Voices</title>
+		<link>http://theppl.us/schedule#comment-413</link>
+		<dc:creator>Advocacy group heads to DNC with clear message: End mountaintop removal coal mining &#171; Appalachian Voices</dc:creator>
+		<pubDate>Mon, 17 Mar 2014 21:08:03 +0000</pubDate>
+		<guid isPermaLink="false">http://theppl.us/?page_id=3346#comment-413</guid>
+		<description>[...] is welcome to attend: Scheduled for Tuesday, 5 p.m., Packard Place, 222 Church St. ***Check the PPL Forum website to [...]</description>
+		<content:encoded><![CDATA[<p>[...] is welcome to attend: Scheduled for Tuesday, 5 p.m., Packard Place, 222 Church St. ***Check the PPL Forum website to [...]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ThePPL &#124; Bold Voices</title>
+		<link>http://theppl.us/schedule#comment-209</link>
+		<dc:creator>ThePPL &#124; Bold Voices</dc:creator>
+		<pubDate>Thu, 06 Sep 2012 05:12:18 +0000</pubDate>
+		<guid isPermaLink="false">http://theppl.us/?page_id=3346#comment-209</guid>
+		<description>[...] Event schedule: http://theppl.us/schedule [...]</description>
+		<content:encoded><![CDATA[<p>[...] Event schedule: <a href="http://theppl.us/schedule" rel="nofollow">http://theppl.us/schedule</a> [...]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Welcome to The PPL! &#124; The PPL LIVE!</title>
+		<link>http://theppl.us/schedule#comment-193</link>
+		<dc:creator>Welcome to The PPL! &#124; The PPL LIVE!</dc:creator>
+		<pubDate>Sun, 02 Sep 2012 22:49:13 +0000</pubDate>
+		<guid isPermaLink="false">http://theppl.us/?page_id=3346#comment-193</guid>
+		<description>[...] Schedule [...]</description>
+		<content:encoded><![CDATA[<p>[...] Schedule [...]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

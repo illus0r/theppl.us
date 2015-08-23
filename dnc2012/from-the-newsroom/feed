@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The PPL &#187; From the Newsroom</title>
+	<atom:link href="http://theppl.us/dnc2012/from-the-newsroom/feed" rel="self" type="application/rss+xml" />
+	<link>http://theppl.us/dnc2012</link>
+	<description>The #DNC2012&#039;s home for bloggers and online media</description>
+	<lastBuildDate>Fri, 15 Nov 2013 19:23:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.2</generator>
+		<item>
+		<title>From the Newsroom: Baratunde Thurston</title>
+		<link>http://theppl.us/dnc2012/374</link>
+		<comments>http://theppl.us/dnc2012/374#comments</comments>
+		<pubDate>Thu, 06 Sep 2012 21:26:48 +0000</pubDate>
+		<dc:creator>Corey Conner</dc:creator>
+				<category><![CDATA[From the Newsroom]]></category>
+
+		<guid isPermaLink="false">http://theppl.us/dnc2012/?p=374</guid>
+		<description><![CDATA[<img src="http://theppl.us/dnc2012/files/2012/09/baj-485x268.jpg" alt="" width="485" height="268" /><p><strong><a href="http://www.youtube.com/watch?v=XyxnbIeHs-0">View Video</a></strong></p>]]></description>
+			<content:encoded><![CDATA[<img src="http://theppl.us/dnc2012/files/2012/09/baj-485x268.jpg" alt="" width="485" height="268" /><p><strong><a href="http://www.youtube.com/watch?v=XyxnbIeHs-0">View Video</a></strong></p>]]></content:encoded>
+			<wfw:commentRss>http://theppl.us/dnc2012/374/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>From the Newsroom: Y-Press</title>
+		<link>http://theppl.us/dnc2012/371</link>
+		<comments>http://theppl.us/dnc2012/371#comments</comments>
+		<pubDate>Thu, 06 Sep 2012 21:23:11 +0000</pubDate>
+		<dc:creator>Corey Conner</dc:creator>
+				<category><![CDATA[From the Newsroom]]></category>
+
+		<guid isPermaLink="false">http://theppl.us/dnc2012/?p=371</guid>
+		<description><![CDATA[<img src="http://theppl.us/dnc2012/files/2012/09/y-485x262.jpg" alt="" width="485" height="262" /><p><strong><a href="http://www.youtube.com/watch?v=TdyNar-9-dg">View Video</a></strong></p>]]></description>
+			<content:encoded><![CDATA[<img src="http://theppl.us/dnc2012/files/2012/09/y-485x262.jpg" alt="" width="485" height="262" /><p><strong><a href="http://www.youtube.com/watch?v=TdyNar-9-dg">View Video</a></strong></p>]]></content:encoded>
+			<wfw:commentRss>http://theppl.us/dnc2012/371/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>From the Newsroom: Ustream &amp; Tomoko Hosaka</title>
+		<link>http://theppl.us/dnc2012/341</link>
+		<comments>http://theppl.us/dnc2012/341#comments</comments>
+		<pubDate>Thu, 06 Sep 2012 19:47:36 +0000</pubDate>
+		<dc:creator>Corey Conner</dc:creator>
+				<category><![CDATA[From the Newsroom]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://theppl.us/dnc2012/?p=341</guid>
+		<description><![CDATA[<img src="http://theppl.us/dnc2012/files/2012/09/ustreamj-485x264.jpg" alt="" width="485" height="264" /><p><strong><a href="http://www.youtube.com/watch?v=T9zX3xaZ7rY&feature=plcp">View Video</a></strong></p>Tomoko Hosaka, news editor of Ustream, has helped broadcast the many events hosted by The PPL via Ustream&#8217;s ...<a href="http://theppl.us/dnc2012/341" class="read-more">Continue Reading</a>]]></description>
+			<content:encoded><![CDATA[<img src="http://theppl.us/dnc2012/files/2012/09/ustreamj-485x264.jpg" alt="" width="485" height="264" /><p><strong><a href="http://www.youtube.com/watch?v=T9zX3xaZ7rY&feature=plcp">View Video</a></strong></p><p>Tomoko Hosaka, news editor of <a href="http://ustream.tv">Ustream</a>, has helped broadcast the many events hosted by The PPL via Ustream&#8217;s platform. She tells us about more their involvement with the DNC, their passion for democratizing media, and to checkout Hat Cam.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://theppl.us/dnc2012/341/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>From the Newsroom: Tumblr, ILoveCharts &amp; Jason Oberholtzer</title>
+		<link>http://theppl.us/dnc2012/293</link>
+		<comments>http://theppl.us/dnc2012/293#comments</comments>
+		<pubDate>Thu, 06 Sep 2012 17:48:44 +0000</pubDate>
+		<dc:creator>Corey Conner</dc:creator>
+				<category><![CDATA[From the Newsroom]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://theppl.us/dnc2012/?p=293</guid>
+		<description><![CDATA[<img src="http://theppl.us/dnc2012/files/2012/09/tumblrj-485x261.jpg" alt="" width="485" height="261" /><iframe width="560" height="315" src="http://www.youtube.com/embed/3VFDjwDVfvQ" frameborder="0" allowfullscreen></iframe>Jason Oberholtzer of ILoveCharts shares why he is part of #ThePPL.]]></description>
+			<content:encoded><![CDATA[<img src="http://theppl.us/dnc2012/files/2012/09/tumblrj-485x261.jpg" alt="" width="485" height="261" /><iframe width="560" height="315" src="http://www.youtube.com/embed/3VFDjwDVfvQ" frameborder="0" allowfullscreen></iframe><p><a href="http://twitter.com/ilovecharts">Jason Oberholtzer</a> of <a href="http://ilovecharts.tumblr.com/">ILoveCharts</a> shares why he is part of <a href="http://twitter.com/#!/search/%23ThePPL">#ThePPL</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://theppl.us/dnc2012/293/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

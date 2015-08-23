@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The PPL &#187; From the People</title>
+	<atom:link href="http://theppl.us/dnc2012/tag/from-the-people/feed" rel="self" type="application/rss+xml" />
+	<link>http://theppl.us/dnc2012</link>
+	<description>The #DNC2012&#039;s home for bloggers and online media</description>
+	<lastBuildDate>Fri, 15 Nov 2013 19:23:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.2</generator>
+		<item>
+		<title>From the PPL: &#8216;Howard Dean: The Case for Obama&#8217;</title>
+		<link>http://theppl.us/dnc2012/361</link>
+		<comments>http://theppl.us/dnc2012/361#comments</comments>
+		<pubDate>Thu, 06 Sep 2012 20:54:05 +0000</pubDate>
+		<dc:creator>Corey Conner</dc:creator>
+				<category><![CDATA[From the PPL]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[From the People]]></category>
+
+		<guid isPermaLink="false">http://theppl.us/dnc2012/?p=361</guid>
+		<description><![CDATA[<img src="http://theppl.us/dnc2012/files/2012/09/deanj-485x213.jpg" alt="" width="485" height="213" />From Ari Berman: On Wednesday afternoon I caught up with Howard Dean, former presidential candidate and chair of the Democratic ...<a href="http://theppl.us/dnc2012/361" class="read-more">Continue Reading</a>]]></description>
+			<content:encoded><![CDATA[<img src="http://theppl.us/dnc2012/files/2012/09/deanj-485x213.jpg" alt="" width="485" height="213" /><p>From <a href="http://www.thenation.com/authors/ari-berman">Ari Berman</a>:</p>
+<blockquote><p>On Wednesday afternoon I caught up with <a href="http://www.thenation.com/blog/166230/howard-dean-predicts-obama-re-election-democrats-retake-house">Howard Dean</a>, former presidential candidate and chair of the Democratic Party from 2005–08, for a conversation about Obama’s chances, Paul Ryan’s lies, the impact of unlimited Super PAC money and new voting restrictions on American democracy, and the status of the “Democratic wing of the Democratic Party.”</p>
+<p><iframe src="http://www.youtube.com/embed/Wh87gG75aIs" frameborder="0" width="600" height="338"></iframe></p></blockquote>
+<p><a href="http://www.thenation.com/blog/169782/howard-dean-case-obama">Read the rest of the post here.</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://theppl.us/dnc2012/361/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

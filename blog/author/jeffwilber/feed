@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The PPL &#187; jeffwilber</title>
+	<atom:link href="http://theppl.us/blog/author/jeffwilber/feed" rel="self" type="application/rss+xml" />
+	<link>http://theppl.us</link>
+	<description>Charlotte&#039;s home for bloggers &#38; online media during the #DNC2012</description>
+	<lastBuildDate>Fri, 15 Nov 2013 19:36:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.2</generator>
+		<item>
+		<title>Learn from the Pros</title>
+		<link>http://theppl.us/blog/1145</link>
+		<comments>http://theppl.us/blog/1145#comments</comments>
+		<pubDate>Thu, 19 Jul 2012 15:23:55 +0000</pubDate>
+		<dc:creator>jeffwilber</dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">http://theppl.us/?p=1145</guid>
+		<description><![CDATA[&#160; Hone your convention coverage skills and learn how NOT to get arrested while pursuing your story! With representatives from across the Carolinas, “Covering the DNC” is a seminar that will be hosted by the Society of Professional Journalists to teach journalists and curious individuals the proper way to cover a convention.  With topics like [...]]]></description>
+			<content:encoded><![CDATA[<div id="attachment_1146" class="wp-caption aligncenter" style="width: 380px"><a href="http://theppl.us/learn-from-the-pros/spjfeature/" rel="attachment wp-att-1146"><img class="size-full wp-image-1146" title="SPJFeature" src="http://theppl.us/wp-content/uploads/2012/07/SPJFeature.gif" alt="" width="370" height="447" /></a><p class="wp-caption-text">Photo courtesy of Charlotte SPJ</p></div>
+<p>&nbsp;</p>
+<p>Hone your convention coverage skills and learn how <strong>NOT</strong> to get arrested while pursuing your story!</p>
+<p>With representatives from across the Carolinas, “Covering the DNC” is a seminar that will be hosted by the Society of Professional Journalists to teach journalists and curious individuals the proper way to cover a convention.  With topics like “Protests; How Journalists Can Avoid Getting Arrested” and “DNC Orienteering Session,” the program promises advice from convention veterans on the way the convention operates, as well as the best ways to maneuver the convention spaces for optimal coverage.</p>
+<p>For more information, please refer to the Charlotte Chapter of the SPJ, or click through to their page:</p>
+<p><a href="http://charlottespj.wordpress.com/2012/06/27/spj-seminar-covering-the-democratic-national-convention-in-2012/">covering-the-democratic-national-convention-in-2012</a></p>
+<p>As the PPL encourages media outlets to join the activity of our events, we strongly recommend that independent media and citizen journalists take part in this seminar as preparation for the DNC.<strong id="internal-source-marker_0.9592166638467461"></strong></p>
+<p>Students: $15<br />
+SPJ Member: $15<br />
+Non-SPJ Member: $25</p>
+<p><em>Register for the event at <a href="http://coverdnc.eventbrite.com/">coverdnc</a> today or are you r<strong>eady to get started with The PPL?</strong> Registration is open and filling up quickly. <a href="http://dnc2012.eventbrite.com/">Sign up today!</a></em></p>
+<p>&nbsp;</p>
+<div id="attachment_1148" class="wp-caption aligncenter" style="width: 450px"><a href="http://theppl.us/learn-from-the-pros/spjdncsmall31/" rel="attachment wp-att-1148"><img class="size-full wp-image-1148" title="spjdncsmall31" src="http://theppl.us/wp-content/uploads/2012/07/spjdncsmall31.gif" alt="" width="440" height="1550" /></a><p class="wp-caption-text">Photo courtesy of Charlotte SPJ</p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://theppl.us/blog/1145/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
